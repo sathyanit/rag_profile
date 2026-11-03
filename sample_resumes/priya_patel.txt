@@ -1,0 +1,37 @@
+Priya Patel
+priya.patel@email.com | linkedin.com/in/priyapatel | +1-555-0303
+
+SUMMARY
+Detail-oriented Data Analyst with 4 years of experience transforming raw data into strategic business insights. Proficient in SQL, Python, and BI tools. Strong background in statistical analysis, data storytelling, and cross-functional stakeholder communication.
+
+EXPERIENCE
+
+Senior Data Analyst — RetailInsights Corp, Chicago, IL
+2022 - Present
+- Designed and maintained 30+ executive dashboards in Tableau and Power BI tracking KPIs for $2B retail business.
+- Wrote complex SQL queries (PostgreSQL, Redshift) for cohort analysis, funnel tracking, and customer segmentation.
+- Partnered with marketing team to build A/B testing framework; measured campaign lift with statistical significance.
+- Automated weekly reporting pipelines using Python (Pandas, NumPy) and Apache Airflow, saving 15 hours/week.
+
+Data Analyst — InsureTech Solutions, Chicago, IL
+2020 - 2022
+- Built predictive churn model using scikit-learn (logistic regression, random forest) with 82% accuracy.
+- Created self-service data exploration tool connecting to MySQL using Streamlit and SQLAlchemy.
+- Conducted ETL from 8 legacy systems into centralised data warehouse using Python scripts.
+
+SKILLS
+SQL, MySQL, PostgreSQL, Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Tableau, Power BI, Apache Airflow, Excel, Statistics, A/B Testing, Git, Linux
+
+EDUCATION
+Bachelor of Science in Statistics — University of Illinois, 2020
+
+CERTIFICATIONS
+Tableau Desktop Specialist, 2021
+Google Data Analytics Certificate, 2020
+
+PROJECTS
+Customer Lifetime Value Prediction
+- Built regression model predicting CLV 12 months ahead using XGBoost and feature engineering on 5M customer records.
+
+Real-Time Sales Dashboard
+- Implemented streaming sales dashboard using Python, PostgreSQL, and Plotly Dash refreshing every 30 seconds.

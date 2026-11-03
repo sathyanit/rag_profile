@@ -1,0 +1,39 @@
+Alice Chen
+alice.chen@email.com | linkedin.com/in/alicechen | github.com/alicechen | +1-555-0101
+
+SUMMARY
+Results-driven Machine Learning Engineer with 5 years of experience building and deploying production ML systems. Specialised in NLP, deep learning, and MLOps. Passionate about transforming complex data into actionable insights and scalable AI products.
+
+EXPERIENCE
+
+Senior Machine Learning Engineer — TechCore AI, San Francisco, CA
+2021 - Present
+- Led development of a real-time recommendation engine serving 50M+ users using TensorFlow and Kubernetes.
+- Designed and deployed NLP pipelines (BERT fine-tuning) for customer intent classification, improving accuracy by 34%.
+- Built MLflow-based experiment tracking and model registry; reduced model deployment time by 60%.
+- Collaborated with product and data teams to define ML success metrics and A/B testing frameworks.
+
+Machine Learning Engineer — DataWave Inc., New York, NY
+2019 - 2021
+- Developed anomaly detection models using scikit-learn and XGBoost on IoT sensor data.
+- Implemented ETL pipelines using Apache Airflow and PySpark for 10TB+ daily data processing.
+- Created interactive dashboards in Plotly and Tableau for business stakeholders.
+
+SKILLS
+Python, TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, Pandas, NumPy, NLP, BERT, Hugging Face, Transformers, Machine Learning, Deep Learning, MLflow, Kubeflow, Apache Airflow, PySpark, Kubernetes, Docker, AWS, SQL, PostgreSQL, Elasticsearch, Git, Linux, Jupyter
+
+EDUCATION
+Master of Science in Computer Science — Stanford University, 2019
+Bachelor of Science in Mathematics — UC Berkeley, 2017
+
+CERTIFICATIONS
+AWS Certified Machine Learning Specialty, 2022
+Google Professional Data Engineer, 2021
+
+PROJECTS
+RAG-based Document Q&A System
+- Built a Retrieval-Augmented Generation system using LangChain, ChromaDB, and OpenAI GPT-4 for enterprise document search.
+- Achieved 91% answer accuracy on internal knowledge base benchmarks.
+
+Real-time Fraud Detection Pipeline
+- Designed streaming fraud detection using Kafka, PySpark, and LightGBM; reduced false positives by 45%.

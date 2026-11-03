@@ -1,0 +1,45 @@
+Sarah Rodriguez
+sarah.rodriguez@email.com | linkedin.com/in/sarodriguez | github.com/srodriguez | +1-555-0505
+
+SUMMARY
+Senior DevOps / Platform Engineer with 7 years of experience designing, automating, and scaling cloud infrastructure. Expert in Kubernetes, Terraform, and AWS. Passionate about reliability engineering, infrastructure-as-code, and building self-healing systems that enable fast and safe software delivery.
+
+EXPERIENCE
+
+Senior DevOps Engineer — CloudNative Systems, Denver, CO
+2021 - Present
+- Designed and managed multi-region Kubernetes clusters (EKS) supporting 300+ microservices with 99.99% uptime SLA.
+- Implemented GitOps workflows using ArgoCD and Helm, reducing deployment lead time from 3 days to 45 minutes.
+- Built Terraform modules for standardised AWS infrastructure provisioning (VPC, RDS, ECS, EKS, S3, CloudFront).
+- Led observability initiative: deployed Prometheus, Grafana, and ELK Stack; reduced MTTR by 70%.
+- Mentored team of 4 junior DevOps engineers on Kubernetes best practices and IaC patterns.
+
+DevOps Engineer — FinScale Inc., Denver, CO
+2018 - 2021
+- Migrated on-premise infrastructure to AWS; saved $1.2M annually in infrastructure costs.
+- Automated CI/CD pipelines using Jenkins and GitHub Actions for 40+ microservices.
+- Implemented security hardening: VPC isolation, IAM least-privilege, secrets management with AWS Secrets Manager.
+- Containerised legacy Java applications using Docker; reduced cold start times by 80%.
+
+Systems Administrator — MidWest Corp, Kansas City, MO
+2017 - 2018
+- Managed Linux server fleet (200+ servers) using Ansible playbooks.
+- Monitored system health and automated incident response using Bash and Python scripts.
+
+SKILLS
+Kubernetes, Docker, Terraform, Ansible, AWS, GCP, Azure, Helm, ArgoCD, Prometheus, Grafana, ELK Stack, Jenkins, GitHub Actions, CI/CD, Python, Bash, Linux, Nginx, CloudFormation, Serverless, Git, MySQL, PostgreSQL, Redis, Kafka, DevOps, Microservices, System Design
+
+EDUCATION
+Bachelor of Science in Information Technology — Colorado State University, 2017
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), 2022
+AWS Certified DevOps Engineer Professional, 2021
+HashiCorp Terraform Associate, 2020
+
+PROJECTS
+Self-Healing Kubernetes Operator
+- Built a custom Kubernetes operator in Python that auto-remediates common cluster issues (OOMKill, pending pods).
+
+Infrastructure Cost Optimiser
+- Developed AWS cost analysis tool using Python and Boto3 that identified $300K in annual savings across 50+ accounts.

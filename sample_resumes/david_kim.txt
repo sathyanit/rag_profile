@@ -1,0 +1,42 @@
+David Kim
+david.kim@email.com | linkedin.com/in/davidkim-dev | github.com/davidkim | +1-555-0404
+
+SUMMARY
+Versatile Full-Stack Developer with 6 years of experience building scalable web applications end-to-end. Proficient across Python/Django backends and React/TypeScript frontends. Experienced in system design, API development, and cloud deployment on AWS.
+
+EXPERIENCE
+
+Senior Full-Stack Developer — ScaleUp Labs, Seattle, WA
+2022 - Present
+- Architected multi-tenant SaaS platform (Python/Django, React, PostgreSQL) growing from 0 to 50,000 monthly active users.
+- Designed RESTful and GraphQL APIs serving iOS, Android, and web clients processing 5M+ API requests daily.
+- Led migration from monolith to microservices using Docker, Kubernetes, and AWS ECS; improved deployment frequency from monthly to daily.
+- Implemented CI/CD pipelines using GitHub Actions; achieved 95% test coverage with pytest and Jest.
+
+Full-Stack Developer — WebForge Digital, Seattle, WA
+2019 - 2022
+- Built e-commerce platform with Django, React, and Stripe payments processing $10M+ annual GMV.
+- Integrated Elasticsearch for product search with autocomplete and faceted filtering.
+- Optimised PostgreSQL queries reducing P95 API latency from 800ms to 120ms.
+- Mentored 2 junior developers through pair programming and code reviews.
+
+Junior Developer — StartupX, Remote
+2018 - 2019
+- Developed internal tools using Flask, Vue.js, and MySQL.
+- Automated deployment scripts using Bash and Ansible.
+
+SKILLS
+Python, Django, Flask, FastAPI, JavaScript, TypeScript, React, Vue.js, Next.js, Node.js, PostgreSQL, MySQL, Redis, Elasticsearch, Docker, Kubernetes, AWS, GitHub Actions, REST API, GraphQL, Microservices, Git, Linux, Bash
+
+EDUCATION
+Bachelor of Engineering in Software Engineering — University of Washington, 2018
+
+CERTIFICATIONS
+AWS Certified Solutions Architect Associate, 2023
+
+PROJECTS
+Open-Source CMS Framework
+- Created a headless CMS in Django with React frontend; 1,200+ GitHub stars, actively maintained.
+
+Real-Time Collaboration Tool
+- Built Figma-like collaborative whiteboard using WebSockets, React, and Redis pub/sub for 10k concurrent users.

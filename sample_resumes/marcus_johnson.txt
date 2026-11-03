@@ -1,0 +1,36 @@
+Marcus Johnson
+marcus.johnson@email.com | linkedin.com/in/marcusjohnson | github.com/mjohnson | +1-555-0202
+
+SUMMARY
+Creative and performance-focused Frontend Developer with 3 years of experience building responsive, accessible web applications. Expert in React and TypeScript ecosystems. Passionate about user experience, design systems, and bridging the gap between design and engineering.
+
+EXPERIENCE
+
+Frontend Developer — BrightPixel Agency, Austin, TX
+2023 - Present
+- Built a multi-tenant SaaS dashboard using React, TypeScript, and Tailwind CSS serving 200+ enterprise clients.
+- Implemented design system with 40+ reusable components, reducing UI development time by 50%.
+- Optimised Core Web Vitals (LCP < 1.2s, CLS < 0.05) using Next.js image optimisation and code splitting.
+- Integrated GraphQL APIs with Apollo Client; wrote comprehensive unit tests using Jest and React Testing Library.
+
+Junior Frontend Developer — WebCraft Studio, Austin, TX
+2021 - 2023
+- Developed landing pages and e-commerce features using React, JavaScript, and Bootstrap.
+- Collaborated with UX designers using Figma to translate wireframes into pixel-perfect implementations.
+- Maintained legacy jQuery codebase and progressively migrated components to React.
+
+SKILLS
+React, TypeScript, JavaScript, Next.js, Vue.js, HTML, CSS, Tailwind, Bootstrap, GraphQL, REST API, Node.js, Jest, Webpack, Vite, Git, GitHub, Figma, PostgreSQL, Firebase, Docker, Linux
+
+EDUCATION
+Bachelor of Science in Computer Science — University of Texas at Austin, 2021
+
+CERTIFICATIONS
+Meta Frontend Developer Certificate, 2022
+
+PROJECTS
+Open Source Design System
+- Maintainer of an open-source React component library with 800+ GitHub stars and 50+ contributors.
+
+E-Commerce Performance Overhaul
+- Reduced page load time by 65% through lazy loading, service workers, and CDN caching for a retail client.

@@ -1,0 +1,19 @@
+# Core RAG dependencies
+# Using Python 3.13-compatible versions with pre-built wheels (no C compiler needed)
+sentence-transformers>=3.0.0
+chromadb>=0.6.0
+
+# PDF & DOCX parsing
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+
+# Keyword / hybrid search
+rank-bm25==0.2.2
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+colorama>=0.4.6
+
+# Optional: OpenAI embeddings (uncomment if you have an API key)
+# openai>=1.40.0

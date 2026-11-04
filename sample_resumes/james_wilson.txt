@@ -1,0 +1,54 @@
+JAMES WILSON
+Senior Backend Engineer
+Email: james.wilson@email.com | Phone: (415) 555-0182 | LinkedIn: linkedin.com/in/jameswilson
+Location: San Francisco, CA | GitHub: github.com/jwilson-dev
+
+SUMMARY
+Results-driven Senior Backend Engineer with 6 years of experience designing and building high-performance, scalable server-side applications using Java and Spring Boot. Proven track record delivering microservices architectures that handle millions of requests per day. Passionate about clean code, RESTful API design, and distributed systems. Strong collaborator with cross-functional teams in Agile environments.
+
+EXPERIENCE
+
+Senior Backend Engineer | Stripe, Inc. | San Francisco, CA | Jun 2021 – Present
+- Architected and implemented a fraud detection microservice in Spring Boot that reduced false-positive rates by 32% using rule-based and ML-hybrid approaches
+- Led migration of monolithic payment processing service to 12 independent microservices, cutting deployment times from 2 hours to 8 minutes
+- Designed RESTful APIs consumed by 400+ merchant integrations, maintaining 99.98% uptime SLA
+- Mentored 4 junior engineers; introduced pair-programming culture that reduced bug rates by 18%
+- Optimized PostgreSQL queries and introduced Redis caching, cutting average API response time from 450ms to 60ms
+
+Backend Engineer | Twilio | San Francisco, CA | Mar 2019 – Jun 2021
+- Built messaging queue processing system using Apache Kafka handling 2M+ messages per hour
+- Developed Spring Security-based OAuth 2.0 authentication layer for Twilio's API gateway
+- Implemented rate-limiting middleware that protected upstream services from DDoS spikes
+- Collaborated with QA to build integration test suite with 85% code coverage using JUnit 5 and Mockito
+- Participated in on-call rotation, achieving MTTR of under 15 minutes for critical incidents
+
+Junior Backend Developer | Pivotal Labs | Austin, TX | Aug 2018 – Mar 2019
+- Developed REST endpoints for client-facing SaaS applications using Spring MVC
+- Wrote unit tests and assisted in CI/CD pipeline setup with Jenkins and Docker
+- Contributed to database schema design and JPA/Hibernate ORM mapping
+
+SKILLS
+Languages: Java (Expert), Python (Intermediate), SQL, Bash
+Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, JPA
+Databases: PostgreSQL, MySQL, Redis, Cassandra, MongoDB
+Messaging: Apache Kafka, RabbitMQ
+DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+Cloud: AWS (EC2, RDS, SQS, Lambda), GCP
+Testing: JUnit 5, Mockito, TestContainers, Postman
+Other: REST APIs, Microservices, gRPC, OpenAPI/Swagger, Agile/Scrum
+
+EDUCATION
+B.S. Computer Science | University of Texas at Austin | 2018
+GPA: 3.7/4.0 | Relevant Coursework: Distributed Systems, Database Systems, Software Engineering
+
+PROJECTS
+Distributed Task Scheduler (Open Source)
+- Built a distributed cron-job scheduler in Java supporting 10K+ concurrent jobs with fault-tolerant leader election using ZooKeeper
+
+E-Commerce Order API
+- Designed and deployed a full order management API using Spring Boot, PostgreSQL, and AWS SQS for async order fulfillment
+
+CERTIFICATIONS
+- Oracle Certified Professional: Java SE 11 Developer (2020)
+- AWS Certified Developer – Associate (2021)
+- Spring Professional Certification (VMware, 2022)

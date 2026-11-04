@@ -1,0 +1,30 @@
+Full Stack Software Engineer (React / Node.js)
+
+We are growing our product engineering team and looking for a Full Stack Engineer who can own features end-to-end, from database design to polished UI.
+
+Responsibilities:
+- Build full-stack features using React (TypeScript) on the frontend and Node.js/Express on the backend
+- Design and implement RESTful APIs consumed by web and mobile clients
+- Write efficient SQL queries and manage PostgreSQL schemas
+- Integrate third-party APIs and payment systems
+- Build responsive, accessible UIs following design system guidelines
+- Implement automated tests (Jest, Cypress, Playwright)
+- Participate in agile ceremonies and contribute to technical planning
+- Deploy and monitor applications using Docker, CI/CD pipelines, and AWS
+
+Requirements:
+- 4+ years of full-stack development experience
+- Strong proficiency in React, TypeScript, and modern JavaScript (ES2020+)
+- Backend experience with Node.js, Express, or similar frameworks
+- Proficiency with SQL databases (PostgreSQL or MySQL)
+- Experience with REST API design and third-party API integration
+- Familiarity with Docker and AWS basics (EC2, S3, RDS)
+- Knowledge of CI/CD practices and Git workflows
+- Experience writing unit and integration tests
+
+Nice to Have:
+- Experience with GraphQL and Apollo
+- Knowledge of Redis for caching
+- Familiarity with Next.js or server-side rendering
+- Experience with React Native for mobile development
+- Background with Kubernetes and infrastructure management

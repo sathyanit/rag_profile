@@ -1,0 +1,40 @@
+Mia Johnson
+mia.johnson@email.com | linkedin.com/in/miajohnson-pm | +1-555-0113
+Location: Seattle, WA
+
+SUMMARY
+User-centric Senior Technical Product Manager with 6 years of experience leading cross-functional engineering, design, and data science teams to deliver enterprise B2B SaaS and consumer tech solutions. Expert in translating ambiguous business problems into clear roadmaps, PRDs, and high-impact measurable KPIs. Skilled in agile ceremonies, user research, and data-driven product experimentation.
+
+EXPERIENCE
+
+Senior Product Manager — PulseCloud SaaS, Seattle, WA
+2021 - Present
+- Owned product strategy and execution for Core Platform APIs and integrations ecosystem used by 12,000+ enterprise developers.
+- Increased developer activation rate by 44% by redesigning onboarding flows, API documentation, and interactive playground.
+- Defined and tracked north-star metrics in Amplitude and SQL; conducted 40+ user interviews annually to discover latent customer needs.
+- Collaborated with engineering managers on quarterly OKRs, sprint planning, backlog grooming, and release management.
+- Delivered $4.2M in net new ARR within 18 months through tiered monetization strategy for enterprise workflow connectors.
+
+Technical Product Manager — DataFlow Software, Redmond, WA
+2018 - 2021
+- Led agile squad of 8 engineers and 1 UX designer developing real-time collaboration canvas for remote engineering teams.
+- Conducted multivariate A/B testing on pricing pages and signup funnels, lifting freemium conversion by 21%.
+- Authored detailed product requirement documents (PRDs), wireframes, and user story maps in Jira and Figma.
+- Facilitated daily standups, sprint reviews, and retrospectives as Certified Scrum Product Owner.
+
+SKILLS
+Product Management, Agile, Scrum, JIRA, SQL, Tableau, Figma, REST API, Leadership, Communication, Stakeholder Management, A/B Testing, Problem Solving
+
+EDUCATION
+Master of Business Administration (MBA) — University of Washington, 2018
+Bachelor of Arts in Economics — UCLA, 2015
+
+CERTIFICATIONS
+Certified Scrum Product Owner (CSPO) — Scrum Alliance, 2019
+Pragmatic Institute Certified (PMC-III), 2020
+
+PROJECTS
+API Developer Portal Redesign
+- Spearheaded complete overhaul of developer documentation and code snippet generation, decreasing support ticket volume by 28%.
+Internal Feature Flagging Console
+- Defined product vision for internal tool enabling zero-downtime canary rollouts and targeted beta user cohort enablement.

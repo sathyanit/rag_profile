@@ -134,7 +134,7 @@ _NAME_BLACKLIST = re.compile(
 )
 
 _PROPER_NAME_REGEX = re.compile(
-    r"^([A-Z][a-z]+(?: [A-Z][a-z.]+){1,3})$"
+    r"^([A-Za-z]+(?: [A-Za-z.]+){1,3})$"
 )
 
 
@@ -146,6 +146,9 @@ def _detect_name(text: str) -> str:
             continue
         # Must look like "First Last" or "First Middle Last"
         if _PROPER_NAME_REGEX.match(line):
+            # Normalise to title case if uppercase
+            if line.isupper():
+                return line.title()
             return line
     return "Unknown"
 

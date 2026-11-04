@@ -1,0 +1,40 @@
+Kevin Park
+kevin.park@email.com | linkedin.com/in/kevinpark-data | github.com/kevinpark-lakehouse | +1-555-0125
+Location: San Jose, CA
+
+SUMMARY
+Data Platform and Lakehouse Engineer with 5 years of experience building scalable big data analytics platforms, modern lakehouse architectures (Databricks, Delta Lake, Snowflake), and distributed compute engines in Apache Spark and Python. Strong focus on data reliability, performance optimization, and self-serve developer tooling.
+
+EXPERIENCE
+
+Senior Data Platform Engineer — NovaLakehouse Systems, San Jose, CA
+2021 - Present
+- Architected enterprise Lakehouse on Databricks and AWS S3 managing 2 Petabytes of structured and semi-structured telemetry data.
+- Built automated Bronze-Silver-Gold medallion architecture pipelines utilizing PySpark, Delta Lake, and structured streaming.
+- Optimized Spark job execution configurations (AQE, dynamic partition pruning, cache management), slashing daily cluster runtime by 45%.
+- Implemented unified data governance, role-based access control, and column-level masking with Unity Catalog.
+- Mentored data scientists and analytics engineers in writing performant, vectorized Spark code and DataFrame transformations.
+
+Big Data Engineer — OmnisData Cloud, Santa Clara, CA
+2019 - 2021
+- Developed ETL pipelines using Apache Spark, Airflow, and PostgreSQL for customer behavioral intelligence platform.
+- Managed Apache Kafka clusters for streaming clickstream data ingestion with zero data loss.
+- Built data quality validation suites using Great Expectations integrated directly into Airflow DAG checkpoints.
+- Created reusable Python CLI data platform tools simplifying table creation, schema migration, and access requests.
+
+SKILLS
+Apache Spark, PySpark, Databricks, Python, SQL, Apache Airflow, Kafka, AWS, S3, Snowflake, PostgreSQL, Docker, Linux, Git, Terraform, dbt
+
+EDUCATION
+Master of Science in Software Engineering — San Jose State University, 2019
+Bachelor of Science in Computer Science — UC Santa Cruz, 2017
+
+CERTIFICATIONS
+Databricks Certified Data Engineer Professional, 2022
+AWS Certified Big Data — Specialty, 2020
+
+PROJECTS
+DeltaStream Sync
+- Real-time CDC (Change Data Capture) replication engine streaming Postgres WAL records directly into Databricks Delta tables via Kafka.
+SparkBench
+- Automated benchmarking framework testing PySpark job execution efficiency across varying AWS EC2 instance types and executor counts.

@@ -1,0 +1,39 @@
+Sara Lee
+sara.lee@email.com | linkedin.com/in/saralee-analytics | github.com/saralee-data | +1-555-0115
+Location: Chicago, IL
+
+SUMMARY
+Insightful Senior Data Analyst with 3 years of experience driving business impact through exploratory data analysis, KPI dashboard development, statistical modeling, and customer segmentation. Expert in complex SQL, Tableau, Power BI, and Python (Pandas/NumPy) for transforming messy datasets into executive-ready strategic insights.
+
+EXPERIENCE
+
+Senior Data Analyst — RetailVanguard, Chicago, IL
+2022 - Present
+- Designed and deployed 15+ automated executive Tableau dashboards tracking revenue, churn, customer acquisition cost (CAC), and inventory turns.
+- Wrote advanced SQL queries (window functions, CTEs, recursive queries) across Snowflake and PostgreSQL querying 10M+ transaction records.
+- Conducted exploratory data analysis and customer lifetime value (CLV) cohort analysis using Python, identifying key retention drivers that led to 14% improvement in 90-day retention.
+- Partnered closely with VP of Marketing and VP of Product to establish standardized KPI definitions across business units.
+- Conducted statistical hypothesis testing for promotional campaigns, determining true incremental revenue lift.
+
+Data Analyst — MarketSphere Insights, Evanston, IL
+2021 - 2022
+- Built automated Power BI reporting models connecting to Salesforce, Google Analytics, and internal SQL databases.
+- Automated weekly and monthly reporting packages in Python, saving 15 manual analyst hours per week.
+- Performed RFM (recency, frequency, monetary) customer segmentation in Pandas, enabling personalized marketing outreach.
+- Documented data dictionaries and metric calculation methodologies for self-serve BI users.
+
+SKILLS
+SQL, Python, Pandas, NumPy, Tableau, Power BI, PostgreSQL, Snowflake, Statistics, A/B Testing, Data Analysis, Git, Communication, Leadership
+
+EDUCATION
+Bachelor of Science in Statistics & Data Analytics — Northwestern University, 2021
+
+CERTIFICATIONS
+Tableau Certified Data Analyst, 2022
+Microsoft Certified: Power BI Data Analyst Associate, 2021
+
+PROJECTS
+E-Commerce Churn Predictor
+- Customer churn analysis and predictive classification model built with Pandas and scikit-learn with interactive Streamlit visualization.
+Automated Financial KPI Reporter
+- Python automation script extracting SQL data, generating automated charts, and emailing formatted PDF briefing to leadership.

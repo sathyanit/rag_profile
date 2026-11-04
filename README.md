@@ -10,13 +10,17 @@ A complete **Retrieval-Augmented Generation (RAG)** pipeline for intelligent res
 rag_profile/
 ├── resume_rag.py          # Part A: Ingest resumes → embed → store in ChromaDB
 ├── job_matcher.py         # Part B: Match job descriptions → top-K ranked JSON
+├── metrics.py             # Evaluation harness: P@K, R@K, nDCG@K, Latency profiling
+├── rag_analysis.ipynb     # Comprehensive experimentation & analysis notebook
+├── DEMO_NOTES.md          # 3-4 minute walkthrough presentation script & notes
+├── job_descriptions/      # 6 realistic job descriptions across domains
+├── sample_resumes/        # 32 diverse synthetic resumes (.txt) for benchmarking
 ├── utils/
 │   ├── pdf_loader.py      # Load PDF, DOCX, TXT resume files
 │   ├── chunker.py         # Section-aware chunking (Education, Experience, Skills...)
 │   ├── metadata.py        # Extract Name, Skills, Experience Years, Education
 │   └── scorer.py          # Hybrid scoring, filtering, reasoning
-├── sample_resumes/        # 5 synthetic resumes (.txt) for demo/testing
-├── resumes/               # Drop your real PDFs/DOCXs here
+├── outputs/               # Benchmark plots and evaluation artifacts
 ├── chroma_db/             # Auto-created ChromaDB persistent store
 ├── requirements.txt
 ├── .env.example

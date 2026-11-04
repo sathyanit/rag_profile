@@ -1,0 +1,37 @@
+Patrick O'Connor
+patrick.oconnor@email.com | linkedin.com/in/patrickoconnor-dev | github.com/poconnor-web3 | +1-555-0118
+Location: New York, NY
+
+SUMMARY
+Blockchain and Full-Stack Web3 Developer with 3 years of hands-on experience designing, developing, auditing, and deploying decentralized applications (dApps) and secure smart contracts in Solidity and Rust. Deep knowledge of Ethereum, EVM architecture, DeFi protocols, Web3.js/Ethers.js, and modern React interfaces.
+
+EXPERIENCE
+
+Blockchain Engineer — Genesis Protocol Labs, New York, NY
+2022 - Present
+- Architected and deployed audited DeFi liquidity pool and yield farming smart contracts on Ethereum and Arbitrum managing $15M+ Total Value Locked (TVL).
+- Implemented gas optimization techniques reducing contract execution fees by 32% using assembly (Yul) and storage packing.
+- Built interactive frontend decentralized interfaces using React, Next.js, TypeScript, and Wagmi/Viem.
+- Collaborated with top smart contract security audit firms (OpenZeppelin, Trail of Bits), resolving all identified high and medium vulnerabilities.
+- Developed automated test suites in Foundry and Hardhat with fuzz testing and formal verification achieving 100% test coverage.
+
+Smart Contract Developer — BlockWorks Studio, Brooklyn, NY
+2021 - 2022
+- Developed ERC-721 and ERC-1155 NFT smart contracts and automated minting engines with IPFS decentralized storage.
+- Integrated Chainlink decentralized oracles for real-time asset pricing feeds and provable randomness (VRF).
+- Built backend indexing services in Node.js and PostgreSQL querying on-chain events via custom Graph subgraphs.
+
+SKILLS
+Solidity, Rust, JavaScript, TypeScript, React, Next.js, Node.js, Web3, Ethereum, Docker, Git, REST API, PostgreSQL, Linux
+
+EDUCATION
+Bachelor of Science in Computer Science — New York University, 2021
+
+CERTIFICATIONS
+Certified Ethereum Developer (Blockchain Council), 2021
+
+PROJECTS
+VaultShield DeFi
+- Modular yield aggregator smart contract featuring automated rebalancing and multi-sig emergency pauses.
+Decentralized Escrow dApp
+- Multi-party escrow system utilizing zero-knowledge proofs and timelocks built on Ethereum and Next.js.

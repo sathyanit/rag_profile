@@ -1,0 +1,38 @@
+Nina Petrov
+nina.petrov@email.com | linkedin.com/in/ninapetrov | github.com/ninapetrov-ios | +1-555-0106
+Location: Chicago, IL
+
+SUMMARY
+Creative and detail-oriented iOS Developer with 4 years of experience crafting high-performance, intuitive native mobile applications for iOS. Expert in Swift, SwiftUI, and UIKit with deep understanding of Apple design guidelines and Clean Architecture. Passionate about animations, responsive UI, and offline-first mobile architecture.
+
+EXPERIENCE
+
+Senior iOS Developer — SwiftWave Mobile, Chicago, IL
+2022 - Present
+- Architected and delivered consumer fintech iOS app with 4.8-star App Store rating and 800k monthly active users using SwiftUI and Combine.
+- Modernized legacy UIKit codebase to MVVM + Combine reactive architecture, reducing crash rate by 42%.
+- Integrated biometric authentication (FaceID/TouchID) and secure Keychain storage for financial credentials.
+- Optimized app launch time by 35% through dynamic framework reduction and lazy image caching.
+- Mentored two junior iOS developers and instituted automated UI testing with XCTest and Fastlane.
+
+iOS Developer — AppVenture Studios, Denver, CO
+2020 - 2022
+- Built 5 custom client applications using Swift, UIKit, CoreData, and RESTful APIs.
+- Implemented real-time chat and push notifications using WebSockets and APNs.
+- Built custom UI animations and interactive gestures using Core Animation and UIKit Dynamics.
+- Set up continuous integration pipelines using GitHub Actions and Fastlane for TestFlight distribution.
+
+SKILLS
+Swift, SwiftUI, UIKit, Combine, CoreData, Objective-C, XCTest, Fastlane, REST, GraphQL, Git, Xcode, CocoaPods, Swift Package Manager, App Store Connect, iOS, Mobile Development, CI/CD
+
+EDUCATION
+Bachelor of Science in Computer Science — University of Illinois Urbana-Champaign, 2020
+
+CERTIFICATIONS
+Apple Certified iOS App Developer, 2021
+
+PROJECTS
+HealthTrack iOS
+- Open-source HealthKit integration dashboard built with SwiftUI and Swift Charts, tracking sleep, heart rate, and steps with 1.2k GitHub stars.
+CryptoPulse
+- Real-time cryptocurrency widget and watchOS companion app utilizing Swift Concurrency and CoreData local cache.

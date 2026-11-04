@@ -1,0 +1,55 @@
+EMILY NGUYEN
+Frontend Engineer
+Email: emily.nguyen@email.com | Phone: (213) 555-0247 | LinkedIn: linkedin.com/in/emilynguyen
+Location: Los Angeles, CA | Portfolio: emilynguyen.dev | GitHub: github.com/emily-codes
+
+SUMMARY
+Creative and detail-oriented Frontend Engineer with 4 years of experience building performant, accessible, and visually polished web applications using React and modern JavaScript. Skilled at translating design mockups into pixel-perfect UIs and collaborating closely with UX designers and backend teams. Strong believer in component-driven development, web accessibility (WCAG), and continuous performance improvement.
+
+EXPERIENCE
+
+Frontend Engineer II | Figma | San Francisco, CA (Remote) | Jan 2022 – Present
+- Built and maintained reusable React component library used across 5 product teams, reducing UI development time by 40%
+- Implemented real-time collaborative cursor feature using WebSockets and React context, handling 500+ simultaneous users per canvas
+- Improved Lighthouse performance score from 61 to 94 by implementing lazy loading, code splitting, and image optimization
+- Led accessibility audit initiative; brought 23 components to WCAG 2.1 AA compliance
+- Mentored 2 junior frontend engineers through code reviews and bi-weekly 1:1s
+
+Frontend Developer | Hulu | Los Angeles, CA | Jun 2020 – Jan 2022
+- Developed video player UI features in React for Hulu's streaming platform used by 48M+ subscribers
+- Built responsive, mobile-first interfaces using CSS Modules and Styled Components
+- Integrated GraphQL APIs using Apollo Client, reducing over-fetching by 35%
+- Collaborated with A/B testing team to implement feature flags using LaunchDarkly
+- Participated in design system development with designers using Storybook
+
+Junior Frontend Developer | Shopify Plus Agency | Culver City, CA | Aug 2019 – Jun 2020
+- Built custom Shopify storefronts using React and Shopify's Storefront API (GraphQL)
+- Created responsive landing pages achieving sub-2s load times on mobile
+- Maintained cross-browser compatibility for Chrome, Firefox, Safari, and Edge
+
+SKILLS
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Frameworks/Libraries: React, Next.js, Redux, React Query, Apollo Client
+Styling: Tailwind CSS, Styled Components, CSS Modules, Sass/SCSS
+Testing: Jest, React Testing Library, Cypress, Playwright
+Build Tools: Webpack, Vite, Babel, ESLint, Prettier
+APIs: REST, GraphQL, WebSockets
+Performance: Lighthouse, Web Vitals, Lazy Loading, Code Splitting
+Accessibility: WCAG 2.1, ARIA, axe DevTools
+Other: Git, Storybook, Figma, Agile/Scrum
+
+EDUCATION
+B.S. Computer Science | UCLA | 2019
+Relevant Coursework: Human-Computer Interaction, Web Technologies, Algorithms
+
+PROJECTS
+Design System Starter Kit (Open Source)
+- Published an open-source React component library with Storybook docs, TypeScript support, and automated accessibility testing; 800+ GitHub stars
+
+Personal Portfolio with 3D Animations
+- Built personal portfolio site using Next.js and Three.js with custom WebGL shaders; featured on CSS Design Awards
+
+CERTIFICATIONS
+- Meta Frontend Developer Professional Certificate (2021)
+- Google UX Design Certificate (2022)
+- Certified Web Accessibility Specialist (IAAP, 2023)

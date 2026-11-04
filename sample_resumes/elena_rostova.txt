@@ -1,0 +1,39 @@
+Elena Rostova
+elena.rostova@email.com | linkedin.com/in/elenarostova-ai | github.com/erostova-rag | +1-555-0126
+Location: Boston, MA
+
+SUMMARY
+Principal AI & LLM Systems Architect with 7 years of experience pioneering generative AI solutions, multi-agent systems, Retrieval-Augmented Generation (RAG), and enterprise vector database search architectures. Deep expertise in PyTorch, LangChain, Transformers, ChromaDB, and Pinecone for knowledge-grounded enterprise applications.
+
+EXPERIENCE
+
+Principal AI Architect — CogniSearch AI, Boston, MA
+2021 - Present
+- Spearheaded the design of an enterprise RAG knowledge engine used by 50,000 corporate employees, indexing 200M+ enterprise documents.
+- Implemented hybrid search combining dense vector embeddings (sentence-transformers) with sparse lexical BM25 matching, improving retrieval recall by 38%.
+- Optimized vector database search with ChromaDB and Pinecone, implementing hierarchical chunking, metadata pre-filtering, and cross-encoder re-ranking.
+- Evaluated and benchmarked retrieval performance using MRR, MAP, and NDCG@10 metrics across specialized corporate knowledge domains.
+- Led an AI engineering group of 10 data scientists and ML engineers; defined technical roadmaps and generative AI governance policies.
+
+Senior Deep Learning Engineer — NeuroSemantic Labs, Cambridge, MA
+2017 - 2021
+- Developed deep learning models for semantic similarity, sentence embeddings, and text summarization using PyTorch and Hugging Face.
+- Trained custom BERT embeddings on specialized legal and financial corpora, achieving state-of-the-art benchmarks on domain QA datasets.
+- Containerized model serving microservices using Docker, FastAPI, and Triton Inference Server on AWS EC2 GPU clusters.
+- Collaborated with product teams to design evaluation harnesses for hallucination detection and response quality assurance.
+
+SKILLS
+Python, PyTorch, Transformers, BERT, GPT, LLM, RAG, ChromaDB, Pinecone, Vector Database, Embeddings, Langchain, Machine Learning, Deep Learning, FastAPI, Docker, AWS, Git
+
+EDUCATION
+Ph.D. in Computer Science (Artificial Intelligence) — Harvard University, 2017
+Master of Science in Computer Science — Brown University, 2013
+
+CERTIFICATIONS
+AWS Certified Solutions Architect — Associate, 2020
+
+PROJECTS
+HybridRAG Engine
+- Open-source reference implementation of hybrid semantic + BM25 keyword retrieval engine with reciprocal rank fusion (RRF) and dynamic thresholding.
+DocChunker
+- Layout-aware PDF chunking library using visual bounding boxes to preserve tables, headers, and hierarchical document structure.

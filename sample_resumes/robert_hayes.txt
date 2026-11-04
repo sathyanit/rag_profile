@@ -1,0 +1,58 @@
+ROBERT HAYES
+Senior DevOps / Site Reliability Engineer
+Email: robert.hayes@email.com | Phone: (512) 555-0319 | LinkedIn: linkedin.com/in/roberthayes-sre
+Location: Austin, TX | GitHub: github.com/rhayes-ops
+
+SUMMARY
+Battle-tested Senior DevOps/SRE Engineer with 7 years of experience building, automating, and maintaining large-scale cloud infrastructure. Expert in Kubernetes, Terraform, and CI/CD pipelines. Passionate about observability, incident response, and reducing toil through automation. Successfully led infrastructure teams supporting platforms with 99.999% uptime requirements. Strong communicator bridging Dev and Ops with an SRE mindset.
+
+EXPERIENCE
+
+Staff Site Reliability Engineer | Cloudflare | Austin, TX | Apr 2020 – Present
+- Led infrastructure-as-code migration for 300+ services to Terraform, reducing manual provisioning errors by 90%
+- Designed and operated Kubernetes clusters (EKS) across 5 AWS regions serving 10B+ daily requests
+- Implemented comprehensive observability stack with Prometheus, Grafana, and OpenTelemetry; created 150+ actionable dashboards
+- Established SLO/SLI framework across 25 critical services; reduced error budget breaches by 60%
+- Automated incident runbooks using PagerDuty and custom Python scripts, cutting MTTR from 45 to 11 minutes
+- Architected zero-downtime blue/green deployment strategy adopted company-wide
+
+Senior DevOps Engineer | Indeed | Austin, TX | Feb 2018 – Apr 2020
+- Built and maintained Jenkins-based CI/CD pipelines for 80+ microservices, reducing build times by 55%
+- Managed Helm chart library for Kubernetes deployments, standardizing rollout patterns across teams
+- Implemented GitOps workflow using ArgoCD, enabling self-service deployments for 150+ developers
+- Designed AWS networking architecture (VPCs, Transit Gateway, Route 53) for multi-region failover
+- Conducted monthly chaos engineering exercises using Chaos Monkey to validate system resilience
+
+DevOps Engineer | RetailMeNot | Austin, TX | Jun 2017 – Feb 2018
+- Maintained and improved legacy on-premises infrastructure during cloud migration project
+- Wrote Ansible playbooks automating server provisioning for 200+ bare-metal hosts
+- Set up ELK stack (Elasticsearch, Logstash, Kibana) for centralized log management
+
+SKILLS
+Cloud: AWS (Expert: EKS, EC2, RDS, S3, Lambda, VPC, CloudWatch), GCP, Azure
+Container Orchestration: Kubernetes, Helm, Docker, containerd
+IaC: Terraform, Ansible, CloudFormation, Pulumi
+CI/CD: Jenkins, GitHub Actions, GitLab CI, ArgoCD, Spinnaker
+Monitoring: Prometheus, Grafana, Datadog, PagerDuty, OpenTelemetry, Jaeger
+Languages: Python, Bash, Go (Intermediate), HCL
+Networking: DNS, Load Balancers, VPCs, CDN, TLS/SSL
+Security: IAM, Vault (HashiCorp), SOPS, Secrets Manager
+Databases: PostgreSQL, Redis, Elasticsearch
+Other: Linux/Unix, SRE practices, Chaos Engineering, GitOps
+
+EDUCATION
+B.S. Information Systems | University of Texas at Austin | 2017
+
+PROJECTS
+Terraform Module Registry (Internal Tool)
+- Built company-wide internal Terraform module registry serving 40 engineering teams, enforcing security and compliance standards
+
+Auto-Scaling Policy Engine
+- Developed ML-based predictive auto-scaling system using Python and AWS Lambda, reducing over-provisioning costs by \$180K/year
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Professional (2022)
+- Certified Kubernetes Administrator (CKA, 2021)
+- Certified Kubernetes Application Developer (CKAD, 2020)
+- HashiCorp Certified: Terraform Associate (2021)
+- Google Cloud Professional Cloud DevOps Engineer (2023)

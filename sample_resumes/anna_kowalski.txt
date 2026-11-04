@@ -1,0 +1,37 @@
+Anna Kowalski
+anna.kowalski@email.com | linkedin.com/in/annakowalski-qa | github.com/annakowalski-test | +1-555-0110
+Location: Raleigh, NC
+
+SUMMARY
+SDET and QA Automation Engineer with 3 years of experience architecting test automation frameworks for web applications, RESTful APIs, and microservices. Skilled in Python, Selenium WebDriver, PyTest, Cypress, and CI/CD integration. Passionate about quality engineering, performance testing, and shift-left testing methodologies.
+
+EXPERIENCE
+
+QA Automation Engineer — CloudPeak Software, Raleigh, NC
+2021 - Present
+- Built and maintained scalable test automation framework from scratch using Python, PyTest, Selenium, and Requests, reducing regression cycle from 4 days to 3 hours.
+- Automated API integration tests across 25+ microservices with comprehensive assertions on status codes, payload schemas, and response latencies.
+- Integrated automated test suites into Jenkins and GitHub Actions CI/CD pipelines, establishing quality gates on all pull requests.
+- Collaborated with software developers and product owners to write clear, executable BDD test scenarios using Behave/Gherkin.
+- Conducted performance and load testing using Locust, identifying database connection bottlenecks before Black Friday peak.
+
+Junior QA Tester — TechVibe Solutions, Charlotte, NC
+2020 - 2021
+- Executed manual functional, exploratory, and regression test cases for client web and mobile applications.
+- Documented detailed bug reports in Jira with clear reproduction steps, logs, and video captures.
+- Transitioned manual regression test cases to automated Cypress JavaScript scripts.
+
+SKILLS
+Python, JavaScript, Selenium, PyTest, Cypress, Postman, REST API, Git, Jenkins, GitHub Actions, Docker, Jira, Linux, SQL, Agile, Scrum
+
+EDUCATION
+Bachelor of Science in Computer Information Systems — North Carolina State University, 2020
+
+CERTIFICATIONS
+ISTQB Certified Tester — Foundation Level (CTFL), 2021
+
+PROJECTS
+PyTest Rest Framework
+- Reusable open-source API testing framework with multi-environment configuration, automatic bearer token refresh, and HTML reporting.
+Visual Regression Suite
+- Visual testing tool leveraging Python and OpenCV to compare pixel-level differences in UI screen renders.

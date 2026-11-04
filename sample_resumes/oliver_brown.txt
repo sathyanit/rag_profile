@@ -1,0 +1,38 @@
+Oliver Brown
+oliver.brown@email.com | linkedin.com/in/oliverbrown-go | github.com/oliverbrown-backend | +1-555-0114
+Location: Austin, TX
+
+SUMMARY
+Backend Software Engineer with 4 years of experience specializing in high-throughput distributed systems, microservices architectures, and low-latency network services in Go (Golang) and Python. Passionate about concurrent programming, gRPC, distributed tracing, and database optimization.
+
+EXPERIENCE
+
+Backend Engineer — StreamScale Technologies, Austin, TX
+2022 - Present
+- Designed and built mission-critical ingestion microservices in Go processing 80k concurrent WebSocket connections and 150k events/sec.
+- Implemented high-performance gRPC communication layers with Protobuf serialization, reducing network overhead by 48% compared to JSON REST.
+- Optimized PostgreSQL database access using pgx connection pooling and Redis caching, lowering database CPU utilization by 35%.
+- Implemented distributed tracing and metrics instrumentation using OpenTelemetry, Prometheus, and Jaeger.
+- Wrote extensive unit and integration tests with testify and dockertest, achieving 90% test coverage.
+
+Software Engineer — CloudMatrix Systems, Dallas, TX
+2020 - 2022
+- Developed RESTful APIs in Python (FastAPI) and Go for cloud resource management platform.
+- Designed database schemas, indexing strategies, and migration scripts in PostgreSQL and Redis.
+- Containerized services using Docker multi-stage builds and deployed to Kubernetes clusters via Helm.
+- Participated in weekly code reviews, technical architecture RFCs, and on-call rotation.
+
+SKILLS
+Go, Python, FastAPI, gRPC, Docker, Kubernetes, PostgreSQL, Redis, Kafka, Linux, Git, REST API, Microservices, Prometheus, CI/CD, System Design, SQL
+
+EDUCATION
+Bachelor of Science in Computer Science — University of Texas at Dallas, 2020
+
+CERTIFICATIONS
+Docker Certified Associate, 2021
+
+PROJECTS
+Go-KVStore
+- Distributed in-memory key-value store in Go implementing Raft consensus algorithm with snapshotting and cluster membership changes.
+FastRPC Gateway
+- High-performance HTTP-to-gRPC reverse proxy in Go with rate limiting, circuit breaker, and JWT token authentication.

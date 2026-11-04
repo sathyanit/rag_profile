@@ -1,0 +1,38 @@
+Tariq Mansoor
+tariq.mansoor@email.com | linkedin.com/in/tariqmansoor-embedded | github.com/tmansoor-embedded | +1-555-0127
+Location: Phoenix, AZ
+
+SUMMARY
+Hands-on Embedded Software Engineer with 6 years of experience programming resource-constrained microcontrollers, writing bare-metal firmware and real-time operating systems (FreeRTOS, Embedded Linux) in C and C++. Expert in hardware communication protocols (SPI, I2C, UART, CAN bus), low-power optimization, and IoT device connectivity.
+
+EXPERIENCE
+
+Senior Embedded Firmware Engineer — AeroSense IoT, Phoenix, AZ
+2021 - Present
+- Designed and developed production firmware in C/C++ for battery-powered industrial IoT telemetry sensors operating for 5+ years without battery replacement.
+- Developed low-power sleep modes, interrupt-driven peripherals, and sensor driver libraries for ARM Cortex-M4 and STM32 microcontrollers.
+- Implemented robust over-the-air (OTA) dual-bank firmware update mechanism with cryptographic signature verification (SHA-256).
+- Utilized logic analyzers, oscilloscopes, and JTAG/SWD debuggers to resolve intermittent timing bugs on hardware I2C and SPI buses.
+- Integrated BLE (Bluetooth Low Energy) and LoRaWAN wireless communication stacks into device firmware.
+
+Embedded Software Developer — MicroTech Devices, Chandler, AZ
+2018 - 2021
+- Wrote device drivers in C for Embedded Linux kernel supporting custom sensor daughterboards.
+- Implemented communication protocol handlers for automotive CAN bus networks complying with ISO 11898.
+- Developed automated hardware-in-the-loop (HIL) test suites in Python and PyTest verifying firmware edge cases.
+- Documented firmware architecture, register maps, and peripheral configurations for cross-functional hardware teams.
+
+SKILLS
+C, C++, Linux, Python, Git, Embedded Systems, FreeRTOS, Microcontrollers, ARM Cortex, Bash, Docker, CI/CD, System Design
+
+EDUCATION
+Bachelor of Science in Electrical & Computer Engineering — Arizona State University, 2018
+
+CERTIFICATIONS
+ARM Certified System Developer (ACSD), 2020
+
+PROJECTS
+SecureBootloader-M4
+- Dual-image failsafe bootloader for STM32 microcontrollers with hardware CRC verification and fallback watchdog recovery.
+SensorHub RTOS
+- Multi-threaded sensor data collection firmware running on FreeRTOS with dynamic queue prioritization and power profiling.

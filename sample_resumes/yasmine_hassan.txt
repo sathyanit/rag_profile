@@ -1,0 +1,40 @@
+Yasmine Hassan
+yasmine.hassan@email.com | linkedin.com/in/yasminehassan-mlops | github.com/yhassan-mlops | +1-555-0117
+Location: San Francisco, CA
+
+SUMMARY
+Devoted MLOps and Machine Learning Infrastructure Engineer with 4 years of experience bridging the gap between data science experimentation and scalable production operations. Specialist in MLflow, Kubeflow, Kubernetes, Triton Inference Server, Docker, and CI/CD pipelines for continuous model training and zero-downtime serving.
+
+EXPERIENCE
+
+Senior MLOps Engineer — HyperScale AI Solutions, San Francisco, CA
+2022 - Present
+- Built and scaled centralized ML platform on AWS EKS serving 30+ internal data scientists and 200M+ daily inference queries.
+- Deployed end-to-end Kubeflow pipelines for automated model re-training, hyperparameter tuning with Optuna, and shadow deployment validation.
+- Standardized MLflow tracking server and model registry with automated governance, lineage tracking, and artifact promotion gates.
+- Reduced model deployment turnaround from 3 weeks to 15 minutes through automated Helm charts and ArgoCD GitOps workflows.
+- Implemented real-time model drift monitoring and data quality alerts using Evidently AI and Prometheus/Grafana.
+
+Machine Learning Infrastructure Engineer — CortexData, San Jose, CA
+2020 - 2022
+- Packaged deep learning models (PyTorch/TensorFlow) into optimized Docker containers utilizing NVIDIA Triton and TensorRT.
+- Cut GPU compute costs by 45% through dynamic batching and mixed-precision (FP16/INT8) inference optimization.
+- Created automated integration test suite in Python evaluating model regression and latency SLAs prior to production rollout.
+- Collaborated with security teams to enforce model artifact signing and encrypted secrets management in HashiCorp Vault.
+
+SKILLS
+Python, MLOps, MLflow, Kubeflow, Kubernetes, Docker, AWS, PyTorch, TensorFlow, Machine Learning, Deep Learning, CI/CD, Git, Linux, Prometheus, Grafana, Terraform
+
+EDUCATION
+Master of Science in Computer Science — Stanford University, 2020
+Bachelor of Science in Software Engineering — UC Davis, 2018
+
+CERTIFICATIONS
+Certified Kubernetes Application Developer (CKAD), 2022
+AWS Certified Machine Learning — Specialty, 2021
+
+PROJECTS
+DriftWatch
+- Open-source lightweight drift detection daemon that monitors streaming inference payloads against training baseline distributions.
+TorchDeploy-CLI
+- Command-line tool to automate conversion of PyTorch models into TensorRT engines with instant deployment manifests for Kubernetes.

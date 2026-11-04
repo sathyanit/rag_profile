@@ -1,0 +1,39 @@
+Diana Ross
+diana.ross@email.com | linkedin.com/in/dianaross-sre | github.com/dianaross-ops | +1-555-0124
+Location: Denver, CO
+
+SUMMARY
+Site Reliability Engineer (SRE) with 4 years of experience building, automating, and scaling reliable cloud infrastructure across AWS and GCP. Deep expertise in Kubernetes, Docker, Prometheus, Grafana, Terraform, and chaos engineering. Proven champion of SLO/SLA management, blameless postmortems, and toil reduction through Python and Bash automation.
+
+EXPERIENCE
+
+Site Reliability Engineer — CloudPinnacle Systems, Denver, CO
+2022 - Present
+- Maintained 99.99% availability across 20 production Kubernetes (EKS) clusters hosting 200+ containerized microservices.
+- Established Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets across 14 engineering squads.
+- Architected observability platform combining Prometheus, Thanos, Grafana, and OpenTelemetry, monitoring 15,000 metrics/sec.
+- Automated incident management workflows with PagerDuty and Slack integrations, reducing Mean Time to Acknowledge (MTTA) to under 2 minutes.
+- Conducted regular Chaos Engineering experiments using Chaos Mesh to validate cluster self-healing and failover mechanisms.
+
+DevOps / Systems Administrator — PeakMetrics, Boulder, CO
+2020 - 2022
+- Managed AWS cloud infrastructure using Terraform, CloudFormation, and Ansible across multiple environments.
+- Built continuous integration and deployment pipelines with GitHub Actions and Docker, reducing release deployment failures by 35%.
+- Implemented centralized logging using Elasticsearch, Logstash, and Kibana (ELK Stack) processing 2TB log data daily.
+- Automated OS security patching and server provisioning scripts in Python and Bash.
+
+SKILLS
+Kubernetes, Docker, AWS, Terraform, Prometheus, Grafana, ELK Stack, Linux, Python, Bash, Ansible, CI/CD, GitHub Actions, Git, Microservices
+
+EDUCATION
+Bachelor of Science in Computer Information Systems — University of Colorado Boulder, 2020
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), 2022
+AWS Certified SysOps Administrator — Associate, 2021
+
+PROJECTS
+KubeSLO Operator
+- Kubernetes Custom Resource Definition (CRD) and controller in Python automatically creating Prometheus SLO alert rules from YAML specs.
+ToilReducer CLI
+- Python automation tool streamlining on-call runbook execution and cluster diagnostic snapshots during incidents.

@@ -1,0 +1,29 @@
+Senior Machine Learning Engineer
+
+We are looking for a Senior Machine Learning Engineer to join our AI team. You will be responsible for designing, building, and deploying production-grade ML systems that power our core products.
+
+Responsibilities:
+- Design and implement end-to-end ML pipelines from data ingestion to model deployment
+- Build and maintain NLP models for text classification, entity recognition, and semantic search
+- Develop MLOps infrastructure using MLflow, Kubeflow, or similar platforms
+- Collaborate with data engineers to build scalable data pipelines
+- Fine-tune large language models (LLMs) and transformer-based models (BERT, GPT)
+- Write production-quality Python code with unit tests and documentation
+- Mentor junior engineers and conduct technical code reviews
+- Partner with product teams to translate business needs into ML solutions
+
+Requirements:
+- 5+ years of experience in machine learning engineering
+- Proficiency in Python, TensorFlow, and PyTorch
+- Experience with NLP, deep learning, and transformer architectures
+- Hands-on experience with MLflow, Airflow, or similar ML workflow tools
+- Strong knowledge of Docker, Kubernetes, and cloud platforms (AWS or GCP)
+- Experience with vector databases (ChromaDB, Pinecone, or Weaviate)
+- Solid understanding of RAG systems and LLM applications
+- MS or PhD in Computer Science, Machine Learning, or related field preferred
+
+Nice to Have:
+- Experience with LangChain or similar LLM frameworks
+- Published research papers in ML/NLP
+- Experience with real-time streaming (Kafka, Spark Streaming)
+- Contributions to open-source ML projects

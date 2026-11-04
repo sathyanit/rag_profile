@@ -1,0 +1,39 @@
+Maria Garcia
+maria.garcia@email.com | linkedin.com/in/mariagarcia-ml | github.com/mariagarcia-ai | +1-555-0122
+Location: San Antonio, TX
+
+SUMMARY
+Data-driven Machine Learning Engineer with 3 years of experience developing, testing, and deploying predictive ML pipelines and neural network models using TensorFlow, Keras, scikit-learn, and Python. Solid foundation in feature engineering, classification, regression, and model deployment on cloud platforms.
+
+EXPERIENCE
+
+Machine Learning Engineer — NexaAI Analytics, San Antonio, TX
+2021 - Present
+- Developed customer churn prediction and propensity-to-buy models using TensorFlow, XGBoost, and scikit-learn, lifting marketing campaign ROI by 24%.
+- Engineered robust automated data preprocessing, outlier detection, and feature selection pipelines in Python and Pandas.
+- Containerized model serving endpoints using Docker and FastAPI deployed on AWS ECS with auto-scaling policies.
+- Implemented automated experiment tracking, model registry, and hyperparameter optimization using MLflow and Optuna.
+- Collaborated with software engineering teams to integrate real-time model scoring into customer-facing mobile and web applications.
+
+Associate Data Scientist — Quantix Solutions, Austin, TX
+2020 - 2021
+- Built predictive maintenance models on manufacturing sensor telemetry using time-series forecasting and Random Forests.
+- Formulated A/B testing protocols and statistical power analyses to evaluate feature release impact.
+- Developed interactive business intelligence dashboards using Plotly and Streamlit for executive stakeholders.
+- Wrote ETL scripts extracting and transforming data from PostgreSQL and Amazon S3.
+
+SKILLS
+Python, TensorFlow, Keras, scikit-learn, XGBoost, Pandas, NumPy, Machine Learning, Deep Learning, MLflow, Docker, AWS, PostgreSQL, SQL, Git, Linux, Jupyter
+
+EDUCATION
+Bachelor of Science in Data Science & Statistics — University of Texas at San Antonio, 2020
+
+CERTIFICATIONS
+TensorFlow Developer Certificate (Google), 2021
+AWS Certified Machine Learning — Specialty, 2022
+
+PROJECTS
+ChurnShield ML
+- End-to-end customer attrition prediction service with explainable AI (SHAP) feature importance dashboards.
+AutoFeature Pipeline
+- Open-source automated feature engineering library in Python accelerating feature generation for tabular data.

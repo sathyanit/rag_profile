@@ -1,0 +1,56 @@
+CARLOS MENDEZ
+Full Stack Engineer (Node.js / React)
+Email: carlos.mendez@email.com | Phone: (305) 555-0561 | LinkedIn: linkedin.com/in/carlosmendez-dev
+Location: Miami, FL | GitHub: github.com/carlos-fullstack | Portfolio: carlosmendez.io
+
+SUMMARY
+Versatile Full Stack Engineer with 5 years of experience building end-to-end web applications with Node.js backends and React frontends. Comfortable owning entire feature development from database design to polished UI. Experience across startups and mid-size companies in fintech and e-commerce. Pragmatic problem-solver who thrives in fast-paced environments where shipping quality product quickly matters.
+
+EXPERIENCE
+
+Senior Full Stack Engineer | Chime Financial | Miami, FL (Remote) | Mar 2022 – Present
+- Architected and built Chime's new account onboarding flow in React (TypeScript), reducing drop-off rate by 28%
+- Developed Node.js/Express microservices for KYC verification integrating Plaid and Alloy APIs
+- Designed MongoDB schema for transaction history serving 14M+ customers with sub-100ms query times
+- Implemented real-time notification system using Socket.io and Redis pub/sub for instant transaction alerts
+- Built internal admin dashboard using React and Recharts enabling customer support team to resolve tickets 40% faster
+- Established code review standards and introduced ESLint + Prettier configurations adopted across frontend team
+
+Full Stack Developer | Shopify Partners Agency (Luminary Digital) | Miami, FL | Jul 2020 – Mar 2022
+- Built 10+ custom Shopify storefronts for e-commerce clients using React Storefront API and Node.js webhooks
+- Developed inventory management microservice integrating with 3PL warehouse APIs
+- Created automated order reporting dashboard (React + D3.js) processing 50K+ daily transactions
+- Maintained PostgreSQL databases, wrote complex JOIN queries for sales analytics
+
+Junior Full Stack Developer | Ramp (Startup) | Miami, FL | Jun 2019 – Jul 2020
+- Built MVP expense management features across full stack using Node.js, React, and PostgreSQL
+- Implemented JWT-based authentication and role-based authorization system
+- Wrote comprehensive API documentation using Swagger/OpenAPI
+- Set up initial CI/CD pipeline using GitHub Actions with automated testing and Heroku deployment
+
+SKILLS
+Frontend: React, Next.js, TypeScript, Redux, React Query, Tailwind CSS, Styled Components, D3.js
+Backend: Node.js, Express.js, NestJS, GraphQL, REST APIs, Socket.io, Webhooks
+Databases: PostgreSQL, MongoDB, Redis, MySQL, Prisma ORM, Mongoose
+Cloud: AWS (EC2, S3, Lambda, CloudFront), Heroku, Vercel, Netlify
+DevOps: Docker, GitHub Actions, CI/CD, Nginx
+Testing: Jest, Supertest, Cypress, React Testing Library
+Payments: Stripe, Plaid, PayPal APIs
+Languages: JavaScript (ES6+), TypeScript, Python (Basic), Bash
+Other: Git, Agile/Scrum, REST, GraphQL, OAuth 2.0, Webhooks
+
+EDUCATION
+B.S. Computer Science | Florida International University | 2019
+GPA: 3.6/4.0
+
+PROJECTS
+Budget Buddy App
+- Built full-stack personal finance app (React + Node.js + PostgreSQL) with Plaid API integration; deployed on AWS with 500+ active users
+
+Open-Source REST API Starter Template
+- Published Node.js/Express REST API boilerplate with authentication, testing, and Docker support; 300+ GitHub stars
+
+CERTIFICATIONS
+- MongoDB Certified Developer Associate (2021)
+- AWS Certified Cloud Practitioner (2022)
+- Node.js Application Developer (OpenJS Foundation, 2022)

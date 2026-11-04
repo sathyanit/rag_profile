@@ -1,0 +1,39 @@
+Chen Wei
+chen.wei@email.com | linkedin.com/in/chenwei-nlp | github.com/chenwei-ai | +1-555-0112
+Location: San Jose, CA
+
+SUMMARY
+NLP and Large Language Model Research Engineer with 5 years of experience researching, fine-tuning, and productionizing state-of-the-art Natural Language Processing models. Deep expertise in transformer architectures (BERT, GPT, T5, LLaMA), Retrieval-Augmented Generation (RAG), vector similarity search, and low-latency inference optimization.
+
+EXPERIENCE
+
+Senior NLP Engineer — OmniCognitive AI, San Jose, CA
+2021 - Present
+- Designed and built enterprise Retrieval-Augmented Generation (RAG) system with ChromaDB and LangChain, enabling conversational search across 100M+ documents with 92% semantic precision.
+- Fine-tuned open-source LLMs (LLaMA-3, Mistral) with LoRA and QLoRA for domain-specific contract analysis, cutting token costs by 75% compared to commercial APIs.
+- Deployed high-throughput embedding generation pipelines using SentenceTransformers and ONNX Runtime on Triton Inference Server, achieving <15ms p95 latency.
+- Developed custom biomedical NER and relation extraction models using PyTorch, Hugging Face Transformers, and SciSpacy.
+- Co-authored 2 research papers accepted at NLP workshops on efficient document grounding.
+
+NLP Engineer — TextIntelligence Labs, Mountain View, CA
+2019 - 2021
+- Trained and evaluated BERT-based text classification models for intent recognition and sentiment analysis across 12 languages.
+- Implemented semantic deduplication pipelines for news articles using faiss and cosine distance thresholds.
+- Created dataset annotation guidelines and active learning workflows, boosting model F1 score from 0.78 to 0.89.
+- Built REST APIs in FastAPI and containerized model services with Docker for scalable AWS deployment.
+
+SKILLS
+Python, PyTorch, TensorFlow, NLP, Transformers, BERT, GPT, Hugging Face, LLM, RAG, ChromaDB, Vector Database, Embeddings, Langchain, FastAPI, Docker, AWS, Git, Linux
+
+EDUCATION
+Master of Science in Artificial Intelligence — Carnegie Mellon University, 2019
+Bachelor of Science in Computer Science & Applied Math — UC San Diego, 2017
+
+CERTIFICATIONS
+DeepLearning.AI Natural Language Processing Specialization, 2020
+
+PROJECTS
+SemanticRank RAG
+- Open-source hybrid retrieval engine combining BM25 keyword matching with dense cross-encoder re-ranking for complex technical documentation.
+ContextDistill
+- Toolkit for compressing multi-page context prompts down to key semantic sentences prior to LLM inference.

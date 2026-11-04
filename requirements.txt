@@ -15,5 +15,13 @@ python-dotenv>=1.0.0
 tqdm>=4.66.0
 colorama>=0.4.6
 
+# Analysis, Evaluation & Notebook
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+
 # Optional: OpenAI embeddings (uncomment if you have an API key)
 # openai>=1.40.0

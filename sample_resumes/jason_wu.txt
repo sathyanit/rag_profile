@@ -1,0 +1,38 @@
+Jason Wu
+jason.wu@email.com | linkedin.com/in/jasonwu-rust | github.com/jasonwu-systems | +1-555-0123
+Location: Seattle, WA
+
+SUMMARY
+Performance-obsessed Systems Software Engineer with 5 years of experience developing memory-safe, ultra-high concurrency distributed services, asynchronous networking runtimes, and WebAssembly modules in Rust and C++. Strong advocate for zero-cost abstractions, compiler optimizations, and robust concurrent systems.
+
+EXPERIENCE
+
+Senior Systems Engineer — RustCore Technologies, Seattle, WA
+2021 - Present
+- Architected and built distributed streaming log replication engine in Rust utilizing Tokio, achieving 500k writes/sec with sub-millisecond p99 latencies.
+- Designed memory-safe lockless ring buffer data structures using Rust atomics and crossbeam primitives.
+- Reduced memory footprint by 70% compared to previous Java daemon, cutting cloud server hosting costs by $180k annually.
+- Integrated WebAssembly (Wasm) runtime into edge proxies allowing dynamic sandboxed policy plugins.
+- Mentored engineering department in Rust idioms, ownership semantics, unsafe code auditing, and benchmark profiling with criterion.
+
+Systems Software Engineer — CloudHypervisor Labs, Bellevue, WA
+2019 - 2021
+- Developed virtualization management daemons and microVM orchestrators in Rust and C.
+- Built low-level Linux networking TAP/TUN devices and virtual network interfaces for container isolation.
+- Created automated integration test harnesses simulating high network packet drop and split-brain network partitions.
+- Contributed patches upstream to popular open-source Rust asynchronous crates.
+
+SKILLS
+Rust, C++, C, Linux, Docker, Bash, Git, Multithreading, System Design, gRPC, REST API, Python, WebAssembly, Networking
+
+EDUCATION
+Bachelor of Science in Computer Science & Systems — University of Washington Tacoma, 2019
+
+CERTIFICATIONS
+Linux Foundation Certified Linux Engineer, 2020
+
+PROJECTS
+TokioRaft
+- High-performance asynchronous implementation of the Raft distributed consensus algorithm in pure Rust.
+WasmFilter
+- Envoy-compatible WebAssembly HTTP filter for lightweight rate-limiting and payload transformation at the edge.

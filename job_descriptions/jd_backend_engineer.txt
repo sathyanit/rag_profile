@@ -1,0 +1,30 @@
+Senior Backend Software Engineer (Python/Go)
+
+We are looking for a Senior Backend Engineer to design, build, and scale the APIs and services that power our platform. You will work on challenging distributed systems problems and have a direct impact on millions of users.
+
+Responsibilities:
+- Design and build high-performance REST APIs and gRPC services
+- Architect microservices using Python (FastAPI/Django) or Go
+- Implement database schemas and optimize queries for PostgreSQL and Redis
+- Build event-driven systems using Kafka or RabbitMQ
+- Write clean, testable, well-documented code with 90%+ test coverage
+- Conduct technical design reviews and mentor junior engineers
+- Collaborate with frontend, mobile, and ML teams
+- Participate in on-call rotations and drive system reliability improvements
+
+Requirements:
+- 5+ years of backend software engineering experience
+- Strong proficiency in Python (FastAPI or Django) and/or Go
+- Deep understanding of REST API design principles and gRPC
+- Experience with SQL databases (PostgreSQL, MySQL) and ORM frameworks
+- Knowledge of Redis for caching and session management
+- Experience with message queues: Kafka, RabbitMQ, or SQS
+- Proficiency with Docker and Kubernetes
+- Strong understanding of system design, scalability, and distributed systems
+- Experience with AWS or GCP cloud services
+
+Nice to Have:
+- Experience building API gateways or service mesh
+- Familiarity with GraphQL
+- Experience with database performance tuning and indexing strategies
+- Background in event sourcing and CQRS patterns

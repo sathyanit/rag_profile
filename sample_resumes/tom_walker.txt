@@ -1,0 +1,38 @@
+Tom Walker
+tom.walker@email.com | linkedin.com/in/tomwalker-android | github.com/tomwalker-dev | +1-555-0107
+Location: Seattle, WA
+
+SUMMARY
+Passionate Android Engineer with 5 years of experience designing, developing, and deploying enterprise and consumer Android applications. Specialist in Kotlin, Jetpack Compose, Coroutines, and modern Android architecture (MVI/MVVM). Proven ability to scale apps to millions of downloads with 99.9% crash-free sessions.
+
+EXPERIENCE
+
+Lead Android Engineer — NextGen Media, Seattle, WA
+2021 - Present
+- Led engineering team of 6 Android developers for video streaming application with 5M+ Play Store installs.
+- Migrated legacy Java and XML layouts to 100% Kotlin and Jetpack Compose, accelerating UI development cycles by 50%.
+- Integrated ExoPlayer with adaptive bitrate streaming (HLS/DASH) and DRM protection.
+- Reduced cold start latency from 3.2s to 1.1s through baseline profiles, ProGuard rules, and R8 optimization.
+- Built offline sync engine using Room database and WorkManager with automated conflict resolution.
+
+Android Software Engineer — BlueSky Tech, Portland, OR
+2019 - 2021
+- Developed social networking Android features using Kotlin, Dagger-Hilt, Coroutines, and Flow.
+- Implemented in-app purchases and Google Play Billing API handling $1M+ annual recurring revenue.
+- Collaborated with UX designers to ensure compliance with Material 3 design standards and accessibility guidelines.
+- Created robust test automation suite using JUnit, Mockk, and Espresso, reaching 82% code coverage.
+
+SKILLS
+Kotlin, Java, Jetpack Compose, Android SDK, Coroutines, Flow, Dagger-Hilt, Room, Retrofit, REST API, Git, CI/CD, Gradle, Docker, Linux, Firebase, Material Design
+
+EDUCATION
+Bachelor of Science in Software Engineering — University of Washington, 2019
+
+CERTIFICATIONS
+Associate Android Developer Certification (Google), 2020
+
+PROJECTS
+ComposeAudio
+- Modern open-source music player built with Jetpack Compose, Media3, and Coroutines Flow.
+FieldLog Android
+- Offline-first inspection app for field technicians syncing seamlessly with AWS backend.

@@ -1,0 +1,30 @@
+Data Scientist — Growth & Analytics
+
+We are seeking a Data Scientist to help us understand user behavior, build predictive models, and generate data-driven insights to accelerate business growth.
+
+Responsibilities:
+- Design and run A/B experiments to measure feature impact and drive product decisions
+- Build predictive models for user churn, lifetime value, and conversion optimization
+- Perform statistical analysis and hypothesis testing on large datasets
+- Create data visualizations and dashboards for stakeholders using Tableau or Looker
+- Collaborate with product, marketing, and engineering teams on analytics projects
+- Build and maintain machine learning models using scikit-learn and XGBoost
+- Write SQL queries and Python scripts for data extraction and transformation
+- Present findings and recommendations to both technical and non-technical audiences
+
+Requirements:
+- 3+ years of experience in data science or quantitative analysis
+- Strong proficiency in Python (pandas, numpy, scikit-learn, matplotlib)
+- Solid SQL skills for querying large relational databases
+- Experience with statistical modeling, hypothesis testing, and A/B testing
+- Familiarity with machine learning algorithms: regression, classification, clustering
+- Experience with BI tools: Tableau, Looker, or Power BI
+- Strong communication and data storytelling skills
+- Background in Statistics, Mathematics, Computer Science, or related field
+
+Nice to Have:
+- Experience with deep learning (TensorFlow or PyTorch)
+- Knowledge of causal inference and experimental design
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Experience with Spark for large-scale data processing
+- Exposure to NLP or time series forecasting

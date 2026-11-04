@@ -1,0 +1,39 @@
+Liu Yang
+liu.yang@email.com | linkedin.com/in/liuyang-cv | github.com/liuyang-vision | +1-555-0119
+Location: Sunnyvale, CA
+
+SUMMARY
+Innovative Computer Vision and Deep Learning Engineer with 5 years of experience developing, training, and deploying vision systems for autonomous robotics, medical imaging, and real-time video analytics. Specialist in convolutional neural networks (CNNs), vision transformers (ViT), object detection (YOLO, DETR), segmentation, and edge GPU acceleration.
+
+EXPERIENCE
+
+Senior Computer Vision Engineer — VisionTech Robotics, Sunnyvale, CA
+2021 - Present
+- Designed and trained real-time multi-camera object detection and 3D bounding box estimation models for autonomous warehouse robots using PyTorch.
+- Optimized neural network architectures with TensorRT and quantization (INT8), achieving 60 FPS inference on NVIDIA Jetson Orin edge devices.
+- Built automated synthetic data generation pipeline using Unity and OpenCV, increasing training dataset diversity by 300% and boosting mAP by 14%.
+- Integrated multi-object tracking (DeepSORT, ByteTrack) algorithms for reliable obstacle re-identification across occlusions.
+- Led technical team of 4 CV engineers; established automated model evaluation benchmarks and dataset versioning with DVC.
+
+Computer Vision Engineer — MedVision Systems, Palo Alto, CA
+2019 - 2021
+- Developed 3D semantic segmentation models (UNet, VNet) in PyTorch for automated tumor detection in CT and MRI scans.
+- Published research paper at CVPR Workshop on semi-supervised segmentation using contrastive representation learning.
+- Implemented image pre-processing pipelines (de-noising, contrast enhancement, geometric augmentation) with OpenCV and Albumentations.
+- Deployed REST inference APIs containerized with Docker on AWS EC2 GPU instances.
+
+SKILLS
+Python, PyTorch, TensorFlow, Computer Vision, Deep Learning, Machine Learning, OpenCV, Docker, AWS, Git, Linux, C++, NumPy, scikit-learn, MLOps
+
+EDUCATION
+Master of Science in Electrical & Computer Engineering — UC Berkeley, 2019
+Bachelor of Science in Computer Science — Tsinghua University, 2017
+
+CERTIFICATIONS
+NVIDIA Certified Deep Learning Institute (DLI) Ambassador, 2020
+
+PROJECTS
+EdgeVision YOLO
+- Low-latency real-time pedestrian and vehicle tracker built on YOLOv8 and TensorRT running seamlessly on Raspberry Pi and Jetson Nano.
+VisionTransformer Benchmark
+- Comparative benchmark suite evaluating Swin Transformer vs CNN backbones on medical imagery classification tasks.

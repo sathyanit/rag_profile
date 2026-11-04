@@ -1,0 +1,31 @@
+Senior DevOps / Site Reliability Engineer
+
+We are hiring a Senior DevOps Engineer to build and maintain our cloud infrastructure, improve developer experience, and ensure the reliability of our production systems.
+
+Responsibilities:
+- Design and maintain CI/CD pipelines using GitHub Actions, Jenkins, or GitLab CI
+- Manage Kubernetes clusters across AWS EKS and GCP GKE
+- Implement infrastructure-as-code using Terraform and Ansible
+- Monitor system health with Prometheus, Grafana, and ELK Stack
+- Drive incident response, postmortem analysis, and reliability improvements
+- Automate operational tasks using Python and Bash scripting
+- Manage containerized microservices with Docker and Kubernetes
+- Implement security best practices including secret management and access control
+- Collaborate with development teams to improve deployment processes
+
+Requirements:
+- 5+ years of DevOps/SRE experience
+- Expert knowledge of Kubernetes, Docker, and container orchestration
+- Strong experience with AWS (EC2, ECS, EKS, RDS, S3, Lambda)
+- Proficiency in Terraform for infrastructure as code
+- Experience with monitoring tools: Prometheus, Grafana, Datadog
+- Proficiency in Linux/Unix administration
+- Scripting skills in Python and Bash
+- Experience with CI/CD tools: GitHub Actions, Jenkins, or CircleCI
+- Strong understanding of networking, security, and distributed systems
+
+Nice to Have:
+- AWS or Google Cloud professional certifications
+- Experience with service mesh (Istio, Linkerd)
+- Knowledge of GitOps practices (Argo CD, Flux)
+- Experience with Helm chart development

@@ -1,0 +1,39 @@
+Ahmed Hassan
+ahmed.hassan@email.com | linkedin.com/in/ahmedhassan-dba | github.com/ahassan-db | +1-555-0121
+Location: Dallas, TX
+
+SUMMARY
+Senior Database Administrator and Data Infrastructure Specialist with 6 years of experience managing, tuning, and securing enterprise relational database systems (PostgreSQL, MySQL, Oracle) and distributed NoSQL databases (Redis, MongoDB). Proven ability to troubleshoot critical query performance bottlenecks, architect high-availability replication clusters, and execute multi-terabyte zero-downtime database migrations.
+
+EXPERIENCE
+
+Senior Database Administrator — PrimeData Cloud Infrastructure, Dallas, TX
+2021 - Present
+- Administered 80+ mission-critical PostgreSQL and MySQL production database clusters handling 100k+ QPS with 99.999% uptime.
+- Optimized query execution plans, indexes (B-Tree, GIN, GiST), and vacuuming strategies, slashing average query response times by 65%.
+- Implemented streaming replication, automated failover using Patroni, etcd, and HAProxy for zero-data-loss disaster recovery.
+- Executed seamless major version upgrades (PostgreSQL 12 to 15) for 8TB databases with less than 2 minutes of planned switchover.
+- Automated database backups, restoration verifications, and user privilege auditing using Python, Bash, and Ansible.
+
+Database Administrator — SecureFin Financial, Plano, TX
+2018 - 2021
+- Managed Amazon RDS and Aurora PostgreSQL databases, implementing automated read-replica scaling and connection pooling with PgBouncer.
+- Enforced strict database security standards: TDE encryption, SSL/TLS connections, row-level security (RLS), and audit logging.
+- Created real-time database health monitoring dashboards in Prometheus and Grafana tracking bloat, cache hit ratio, and replication lag.
+- Worked closely with application development teams to review database migration scripts, table partitioning, and ORM query optimization.
+
+SKILLS
+PostgreSQL, MySQL, Redis, MongoDB, SQL, Python, Bash, Linux, Docker, AWS, RDS, Prometheus, Grafana, Ansible, Terraform, Git, Database Design
+
+EDUCATION
+Bachelor of Science in Information Technology — University of Texas at Arlington, 2018
+
+CERTIFICATIONS
+PostgreSQL Certified Professional, 2021
+AWS Certified Database — Specialty, 2020
+
+PROJECTS
+PgAutoTune
+- Open-source Python script calculating optimal postgresql.conf memory, worker, and WAL parameters tailored to specific host hardware profiles.
+DBBloat Exporter
+- Prometheus custom exporter tracking table and index dead tuple bloat across PostgreSQL replica instances.

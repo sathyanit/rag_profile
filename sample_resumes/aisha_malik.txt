@@ -1,0 +1,54 @@
+AISHA MALIK
+Data Scientist
+Email: aisha.malik@email.com | Phone: (617) 555-0438 | LinkedIn: linkedin.com/in/aishamalik-ds
+Location: Boston, MA | GitHub: github.com/aisha-data | Kaggle: kaggle.com/aishamalik
+
+SUMMARY
+Analytically rigorous Data Scientist with 3 years of experience applying statistical modeling, machine learning, and data storytelling to drive business decisions. Proficient in the full data science lifecycle from exploratory analysis to model deployment. Background in applied mathematics enables deep understanding of algorithmic foundations. Known for communicating complex insights to non-technical stakeholders with clarity and impact.
+
+EXPERIENCE
+
+Data Scientist | HubSpot | Boston, MA | Sep 2022 – Present
+- Built customer churn prediction model using gradient boosting (XGBoost) achieving AUC of 0.91, enabling proactive retention campaigns saving \$2.3M ARR
+- Designed A/B testing framework for email marketing features; analyzed 15+ experiments with 500K+ users per cohort
+- Developed lead scoring algorithm using logistic regression and feature engineering on CRM data, improving sales conversion rate by 22%
+- Created automated Tableau dashboards for C-suite KPI tracking, reducing reporting cycle from 2 weeks to real-time
+- Collaborated with engineering team to deploy models via FastAPI endpoints on AWS SageMaker
+
+Data Science Intern → Junior Data Scientist | Toast, Inc. | Boston, MA | Jan 2022 – Sep 2022
+- Analyzed restaurant transaction data to identify seasonal trends and demand patterns using time series decomposition (SARIMA)
+- Built NLP sentiment analysis pipeline on customer reviews using BERT fine-tuning; achieved 88% accuracy
+- Automated data cleaning pipeline in Python (pandas, NumPy), reducing manual prep time by 70%
+
+Research Assistant | Northeastern University | Boston, MA | Sep 2020 – Dec 2021
+- Assisted Professor in computational biology research; applied clustering algorithms (k-means, DBSCAN) to genomic datasets
+- Published supporting analysis for peer-reviewed paper on protein folding prediction
+
+SKILLS
+Languages: Python (Expert), R, SQL
+ML Libraries: Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch (Basic), NLTK, spaCy, HuggingFace Transformers
+Data Tools: pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
+Statistics: Hypothesis Testing, A/B Testing, Bayesian Inference, Regression Analysis, Time Series
+Databases: PostgreSQL, Snowflake, BigQuery, dbt (Basic)
+Visualization: Tableau, Power BI, Looker
+Deployment: AWS SageMaker, FastAPI, Docker, MLflow
+Other: Git, Jupyter, Agile, Experiment Design
+
+EDUCATION
+M.S. Applied Mathematics | Northeastern University | 2021
+GPA: 3.9/4.0 | Thesis: "Bayesian Approaches to Sequential Decision Making"
+
+B.S. Statistics | University of Massachusetts Amherst | 2019
+GPA: 3.8/4.0
+
+PROJECTS
+Kaggle Tabular Playground Competition
+- Ranked top 3% (Silver Medal) in Kaggle tabular classification competition using stacked ensemble methods
+
+Boston Housing Market Analysis
+- Published exploratory analysis and predictive modeling blog post on Medium (2,000+ reads) using public MLS data
+
+CERTIFICATIONS
+- Google Professional Data Analytics Certificate (2022)
+- DataCamp Data Scientist with Python Track (2021)
+- Tableau Desktop Specialist (2023)

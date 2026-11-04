@@ -1,0 +1,39 @@
+Grace Kim
+grace.kim@email.com | linkedin.com/in/gracekim-ux | github.com/gracekim-design | +1-555-0120
+Location: San Francisco, CA
+
+SUMMARY
+Design-focused Senior Frontend & UX Engineer with 4 years of experience building accessible, pixel-perfect, and high-performance web applications. Expert in React, TypeScript, Next.js, Tailwind CSS, and Figma. Passionate about design systems, WCAG 2.1 AA accessibility compliance, fluid micro-interactions, and responsive web performance.
+
+EXPERIENCE
+
+Senior Frontend Engineer — Lumina Experience Studio, San Francisco, CA
+2022 - Present
+- Architected enterprise design system used across 8 product lines, reducing design-to-code iteration time by 55% using React, TypeScript, and Storybook.
+- Re-architected core web application using Next.js (App Router) and Tailwind CSS, increasing Google Lighthouse performance score from 62 to 98.
+- Championed digital accessibility initiatives, conducting automated and screen-reader audits (NVDA, VoiceOver) to reach full WCAG 2.1 AA compliance.
+- Implemented fluid micro-interactions and smooth page transitions using Framer Motion and Web Animations API.
+- Collaborated seamlessly with product designers in Figma, translating complex component tokens directly to Tailwind themes.
+
+Frontend Developer — CreativePulse Agency, Oakland, CA
+2020 - 2022
+- Developed responsive marketing sites and web applications for Fortune 500 clients using React, HTML5, SCSS, and JavaScript.
+- Integrated third-party APIs, headless CMS (Contentful, Strapi), and Stripe payment checkouts.
+- Set up unit and end-to-end testing with Jest and Cypress, ensuring zero regressions on cross-browser deployments.
+- Conducted user usability testing sessions and translated customer friction points into actionable UI improvements.
+
+SKILLS
+React, TypeScript, Next.js, JavaScript, Tailwind, Figma, HTML, CSS, Git, REST API, GraphQL, Jest, Cypress, UI/UX Design, Web Performance
+
+EDUCATION
+Bachelor of Science in Human-Computer Interaction & Informatics — University of California, San Diego, 2020
+
+CERTIFICATIONS
+Nielsen Norman Group UX Master Certified, 2021
+Certified Web Accessibility Specialist (IAAP WAS), 2022
+
+PROJECTS
+DesignTokens CLI
+- Open-source node CLI syncing Figma design variables (colors, typography, spacing) directly into Tailwind CSS configuration files.
+AccessibleModal React
+- Fully accessible, keyboard-navigable, focus-trapped dialog component library downloaded 50k+ times on npm.

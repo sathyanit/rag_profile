@@ -1,0 +1,41 @@
+Raj Sharma
+raj.sharma@email.com | linkedin.com/in/rajsharma-cloud | github.com/rajsharma-arch | +1-555-0111
+Location: Atlanta, GA
+
+SUMMARY
+Distinguished Cloud Architect with 8 years of comprehensive IT experience specializing in enterprise cloud migration, distributed systems architecture, multi-region disaster recovery, and FinOps cost optimization. Proven success architecting scalable AWS and hybrid cloud infrastructure supporting 10M+ users with 99.99% availability.
+
+EXPERIENCE
+
+Principal Cloud Architect — Delta Enterprise Solutions, Atlanta, GA
+2020 - Present
+- Spearheaded company-wide cloud transformation, migrating 60+ on-premises enterprise workloads to AWS multi-account landing zones using AWS Organizations and Control Tower.
+- Designed resilient microservices infrastructure leveraging Amazon EKS (Kubernetes), Amazon Aurora PostgreSQL, and Amazon ElastiCache (Redis).
+- Implemented comprehensive FinOps governance and automated right-sizing scripts in Python, decreasing annual cloud spend by $340k (28%).
+- Established infrastructure as code standards using Terraform and GitOps workflows (ArgoCD).
+- Mentored a team of 12 cloud and DevOps engineers; led architectural review board (ARB) sessions.
+
+Senior DevOps Engineer — Horizon Technologies, Alpharetta, GA
+2016 - 2020
+- Built automated deployment pipelines using GitLab CI, Docker, and Ansible for 30+ distributed web applications.
+- Configured real-time observability platforms using Prometheus, Grafana, and AWS CloudWatch across 200+ EC2 instances.
+- Designed cross-region backup and automated failover architectures reducing Recovery Time Objective (RTO) to under 5 minutes.
+- Maintained production Linux environments, security patch management, and SSL certificate lifecycles.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, Ansible, Python, Linux, Bash, PostgreSQL, Redis, Microservices, Prometheus, Grafana, System Design, CI/CD, Git, CloudFormation
+
+EDUCATION
+Master of Science in Computer Science — Georgia Institute of Technology, 2016
+Bachelor of Engineering in Electronics & Telecommunication — Pune University, 2014
+
+CERTIFICATIONS
+AWS Certified Solutions Architect — Professional, 2021
+AWS Certified DevOps Engineer — Professional, 2020
+Certified Kubernetes Administrator (CKA), 2019
+
+PROJECTS
+Multi-Region Transit Gateway Hub
+- Terraform module orchestrating hub-and-spoke multi-VPC networking with centralized inspection firewalls used by 5 enterprise clients.
+CostAnomalyBot
+- Slack bot powered by AWS Lambda and Python analyzing hourly AWS Cost Explorer telemetry and alerting on abnormal billing spikes.

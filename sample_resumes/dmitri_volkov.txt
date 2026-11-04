@@ -1,0 +1,39 @@
+Dmitri Volkov
+dmitri.volkov@email.com | linkedin.com/in/dmitrivolkov | github.com/dvolkov-cpp | +1-555-0116
+Location: Boston, MA
+
+SUMMARY
+High-Performance Systems Engineer with 7 years of specialized experience developing low-latency trading infrastructure, high-throughput distributed networking engines, and Linux kernel-level modules in C and C++ (C++17/20). Master of lock-free data structures, cache-friendly algorithms, and network packet acceleration techniques.
+
+EXPERIENCE
+
+Principal Systems Engineer — Vertex High Frequency Trading, Boston, MA
+2020 - Present
+- Designed and built tick-to-trade algorithmic execution gateway in C++20, maintaining sub-microsecond roundtrip wire-to-wire latency.
+- Implemented kernel-bypass networking via Solarflare OpenOnload and DPDK, processing 10M+ UDP packets per second with zero packet loss.
+- Eliminated heap memory allocations on critical hot paths through custom memory pools and cache-aligned ring buffers.
+- Optimized Linux OS tuning (CPU core pinning, isolcpus, hugepages, interrupt balancing) on bare-metal servers.
+- Mentored junior C++ developers in modern memory models, concurrency primitives, and SIMD vectorization.
+
+Senior Systems Software Engineer — NetScale Networks, Cambridge, MA
+2017 - 2020
+- Developed core packet routing modules in C and C++ for software-defined network switches.
+- Built distributed consensus and cluster membership protocols based on Raft.
+- Profiled bottlenecks and memory leaks using perf, Valgrind, GDB, and Intel VTune.
+- Automated system integration testing and regression benchmarks using Python and Docker.
+
+SKILLS
+C, C++, Linux, Python, Bash, Git, Docker, System Design, Multithreading, Networking, gRPC, REST API, Performance Optimization
+
+EDUCATION
+Master of Science in Computer Engineering — MIT, 2017
+Bachelor of Science in Electrical Engineering — University of Toronto, 2015
+
+CERTIFICATIONS
+Linux Foundation Certified System Administrator (LFCS), 2019
+
+PROJECTS
+LockFreeQ
+- Ultra-low-latency single-producer single-consumer (SPSC) ring buffer in C++20 with cacheline padding and memory fences benchmarked at 18ns latency.
+MiniTCP Stack
+- User-space TCP/IP protocol stack in C leveraging DPDK for rapid packet processing and custom routing tables.

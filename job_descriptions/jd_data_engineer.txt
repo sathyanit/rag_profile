@@ -1,0 +1,30 @@
+Senior Data Engineer
+
+Join our Data Platform team to build robust, scalable data infrastructure that powers analytics, ML, and business intelligence across the organization.
+
+Responsibilities:
+- Design and build scalable ETL/ELT pipelines using Apache Spark and Airflow
+- Develop and maintain real-time streaming pipelines with Apache Kafka
+- Build and manage data lakes and warehouses on AWS (S3, Redshift, Glue)
+- Implement data quality checks and monitoring frameworks
+- Collaborate with data scientists and analysts to deliver clean, reliable datasets
+- Optimize query performance in SQL and distributed compute environments
+- Maintain data governance standards including cataloging and lineage tracking
+- Build reusable data platform components for self-service analytics
+
+Requirements:
+- 4+ years of data engineering experience
+- Strong proficiency in Python and SQL
+- Hands-on experience with Apache Spark (PySpark) and Airflow
+- Experience with Kafka for real-time streaming data pipelines
+- Familiarity with data warehouse technologies (Redshift, Snowflake, BigQuery)
+- Knowledge of AWS data services (S3, Glue, EMR, Kinesis)
+- Experience with dbt for data transformation
+- Strong understanding of data modeling and dimensional design
+- Experience with Docker and cloud-native deployment
+
+Nice to Have:
+- Experience with Databricks and Delta Lake
+- Knowledge of Apache Flink or Spark Streaming
+- Familiarity with data catalog tools (Apache Atlas, DataHub)
+- Experience with Terraform for infrastructure management

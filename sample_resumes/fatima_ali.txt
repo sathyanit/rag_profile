@@ -1,0 +1,39 @@
+Fatima Ali
+fatima.ali@email.com | linkedin.com/in/fatima-ali-data | github.com/fatimaali-de | +1-555-0108
+Location: New York, NY
+
+SUMMARY
+Senior Data Engineer with 4 years of hands-on experience building enterprise-scale data platforms, distributed data lakes, and real-time streaming architectures. Highly skilled in Apache Spark, PySpark, Apache Kafka, Airflow, and Snowflake on cloud infrastructure. Adept at turning multi-terabyte raw datasets into clean, reliable, and governed analytics assets.
+
+EXPERIENCE
+
+Senior Data Engineer — FinMetrics Global, New York, NY
+2022 - Present
+- Architected and deployed end-to-end real-time data streaming platform using Apache Kafka, PySpark Structured Streaming, and Snowflake, processing 50M+ events daily.
+- Built and scheduled 120+ modular DAGs in Apache Airflow with automated data validation and Slack alert notifications.
+- Optimized massive PySpark SQL queries and partitioning strategies, cutting AWS EMR compute costs by 38% ($120k/yr).
+- Implemented dbt data transformation layers and data lineage documentation supporting regulatory compliance and reporting.
+
+Data Engineer — DataPulse Analytics, Jersey City, NJ
+2020 - 2022
+- Developed batch ETL pipelines extracting data from MongoDB, PostgreSQL, and external REST APIs into Amazon S3 data lake.
+- Implemented schema evolution, delta lake tables, and automated data quality checks with Great Expectations.
+- Partnered with BI analysts to design Kimball dimensional models and star schemas in Amazon Redshift.
+- Created infrastructure as code templates using Terraform and Docker for local and staging environments.
+
+SKILLS
+Python, PySpark, Apache Spark, Apache Airflow, Kafka, SQL, Snowflake, AWS, S3, Redshift, PostgreSQL, MongoDB, Docker, Terraform, Git, Linux, dbt, CI/CD, Bash
+
+EDUCATION
+Master of Science in Information Systems — Columbia University, 2020
+Bachelor of Science in Computer Science — Rutgers University, 2018
+
+CERTIFICATIONS
+AWS Certified Data Analytics — Specialty, 2022
+Databricks Certified Data Engineer Associate, 2021
+
+PROJECTS
+Real-Time Clickstream Aggregator
+- Event-driven clickstream analytics engine built on Kafka, Spark Streaming, and Elasticsearch with sub-second dashboard updates.
+Automated Data Quality Framework
+- Open-source Airflow custom operator for automated schema drift detection and metric drift reporting.
